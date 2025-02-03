@@ -1,5 +1,5 @@
 # project-2
-Airline Database Management project 2 using SQL
+Capstone Database Management project 2 using SQL
 Description in short:
 - Designed a comprehensive SQL database to efficiently manage flights, passengers, tickets, employees, and airports, ensuring 
 structured data storage and retrieval.
